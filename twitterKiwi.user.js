@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Twitter Kiwi
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @downloadURL  https://github.com/fuska/userscripts/raw/main/twitterKiwi.user.js
 // @updateURL    https://github.com/fuska/userscripts/raw/main/twitterKiwi.user.js
 // @description  try to take over the world!
@@ -15,7 +15,7 @@
 
 (function() {
     'use strict';
-    alert("hola")
+    alert("hola2")
 
     GM_addStyle(".r-1e5uvyk{display:none}")
 
