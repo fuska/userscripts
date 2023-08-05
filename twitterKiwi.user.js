@@ -4,6 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @downloadURL  https://github.com/fuska/userscripts/raw/main/twitterKiwi.user.js
+// @updateURL    https://github.com/fuska/userscripts/raw/main/twitterKiwi.user.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://twitter.com/*
